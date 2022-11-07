@@ -3,7 +3,7 @@ _Not ready for production_
 
 Carrel is an Open Source application designed to manage any library. Given the flow of books each day keeping track of it  is a hectic task. In addition to flow of books; maintaining data about each student, staff and all the heavy load of books makes it even more difficult. Carrel helps to provide information on any book present in the library. It keeps track of books issued, returned and added to the library. The application makes use of QR codes for ease of the process.It provides a simple graphical user interface for the Library Staff to manage the functions of the library effectively.
 
-## Getting Started
+## Getting Started plz plz plz plz plz plz plz plz start
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
